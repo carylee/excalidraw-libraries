@@ -1,0 +1,24 @@
+{
+  "name": "excalidraw-library-previews",
+  "version": "1.0.0",
+  "description": "Generate PNG previews from Excalidraw library files",
+  "main": "generate-previews.js",
+  "scripts": {
+    "generate": "node generate-previews.js",
+    "setup": "npm install puppeteer && mkdir -p fonts && curl -L -o fonts/Excalifont-Regular.woff2 https://excalidraw.nyc3.cdn.digitaloceanspaces.com/fonts/Excalifont-Regular.woff2"
+  },
+  "dependencies": {
+    "@excalidraw/excalidraw": "^0.18.0",
+    "canvas": "^3.1.0",
+    "puppeteer": "^24.9.0"
+  },
+  "keywords": [
+    "excalidraw",
+    "library",
+    "preview",
+    "png",
+    "export"
+  ],
+  "author": "",
+  "license": "MIT"
+}
