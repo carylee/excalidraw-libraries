@@ -4,6 +4,7 @@
 	"source": "https://excalidraw.com",
 	"libraryItems": [
 		{
+      "name": "Some name!",
 			"id": "vukLPzzyH56eEY50u7RsF",
 			"status": "unpublished",
 			"elements": [

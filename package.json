@@ -5,7 +5,8 @@
   "main": "generate-previews.js",
   "scripts": {
     "generate": "node generate-previews.js",
-    "setup": "npm install puppeteer && mkdir -p fonts && curl -L -o fonts/Excalifont-Regular.woff2 https://excalidraw.nyc3.cdn.digitaloceanspaces.com/fonts/Excalifont-Regular.woff2"
+    "setup": "npm install puppeteer && mkdir -p fonts && curl -L -o fonts/Excalifont-Regular.woff2 https://excalidraw.nyc3.cdn.digitaloceanspaces.com/fonts/Excalifont-Regular.woff2",
+    "update-readme": "node update-readme.js"
   },
   "dependencies": {
     "@excalidraw/excalidraw": "^0.18.0",

@@ -13,15 +13,15 @@ const puppeteer = require('puppeteer');
 async function generatePreviews() {
   console.log('🚀 Generating Excalidraw library previews…');
 
-  // 1) Start a simple HTTP server to serve Excalifont-Regular.woff2 with CORS
+  // 1) Start a simple HTTP server to serve Excalifont.woff2 with CORS
   const fontDir = path.join(__dirname, 'fonts');
-  const fontFileName = 'Excalifont-Regular.woff2';
+  const fontFileName = 'Excalifont.woff2';
   const fontPath = path.join(fontDir, fontFileName);
   const fontPort = 1234;
 
   if (!fs.existsSync(fontPath)) {
     console.error(
-      `❌ Font not found at ${fontPath}. Please place Excalifont-Regular.woff2 in the 'fonts' directory.`
+      `❌ Font not found at ${fontPath}. Please place Excalifont.woff2 in the 'fonts' directory.`
     );
     process.exit(1);
   }
@@ -154,7 +154,7 @@ async function generatePreviews() {
     try {
       await page.waitForFunction(
         () => document.fonts.check('20px Excalifont') === true,
-        { timeout: 10000 }
+        { timeout: 30000 }
       );
       console.log('✅ Excalifont is registered in the browser.');
     } catch {
