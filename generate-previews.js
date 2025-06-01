@@ -154,7 +154,7 @@ async function generatePreviews() {
     try {
       await page.waitForFunction(
         () => document.fonts.check('20px Excalifont') === true,
-        { timeout: 30000 }
+        { timeout: 10000 }
       );
       console.log('✅ Excalifont is registered in the browser.');
     } catch {
