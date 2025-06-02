@@ -6,7 +6,7 @@
 
 ## 🖼️ Library Preview
 
-### Amperity Component
+### Amperity Components
 
 | Preview | Description |
 | ------- | ----------- |
@@ -43,7 +43,7 @@
 | <img src="previews/item-028.png" width="100"> | Transform / redirect |
 | <img src="previews/item-029.png" width="100"> | People (users, group) |
 
-### Logo
+### Logos
 
 | Preview | Description |
 | ------- | ----------- |
