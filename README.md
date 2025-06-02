@@ -36,7 +36,3 @@
 | 028 | ![item-028.png](previews/item-028.png) |
 | 029 | ![item-029.png](previews/item-029.png) |
 | 030 | ![item-030.png](previews/item-030.png) |
-| 031 | ![item-031.png](previews/item-031.png) |
-| 032 | ![item-032.png](previews/item-032.png) |
-| 033 | ![item-033.png](previews/item-033.png) |
-| 034 | ![item-034.png](previews/item-034.png) |
