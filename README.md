@@ -1,38 +1,40 @@
 # Cary's Excalidraw Library
 
-[Add to Excalidraw](https://excalidraw.com/?addLibrary=https%3A%2F%2Fraw.githubusercontent.com%2Fcarylee%2Fexcalidraw-libraries%2Frefs%2Fheads%2Fmain%2Fcarys-visual-vocabulary.excalidrawlib)
+1. Download [the library file](carys-visual-vocabulary.excalidrawlib)
+2. Drag and drop it into an Excalidraw canvas (or use the file browser inside the library palette)
+
 
 ## 🖼️ Library Preview
 
-| Item | Preview |
-|------|---------|
-| 001 | ![item-001.png](previews/item-001.png) |
-| 002 | ![item-002.png](previews/item-002.png) |
-| 003 | ![item-003.png](previews/item-003.png) |
-| 004 | ![item-004.png](previews/item-004.png) |
-| 005 | ![item-005.png](previews/item-005.png) |
-| 006 | ![item-006.png](previews/item-006.png) |
-| 007 | ![item-007.png](previews/item-007.png) |
-| 008 | ![item-008.png](previews/item-008.png) |
-| 009 | ![item-009.png](previews/item-009.png) |
-| 010 | ![item-010.png](previews/item-010.png) |
-| 011 | ![item-011.png](previews/item-011.png) |
-| 012 | ![item-012.png](previews/item-012.png) |
-| 013 | ![item-013.png](previews/item-013.png) |
-| 014 | ![item-014.png](previews/item-014.png) |
-| 015 | ![item-015.png](previews/item-015.png) |
-| 016 | ![item-016.png](previews/item-016.png) |
-| 017 | ![item-017.png](previews/item-017.png) |
-| 018 | ![item-018.png](previews/item-018.png) |
-| 019 | ![item-019.png](previews/item-019.png) |
-| 020 | ![item-020.png](previews/item-020.png) |
-| 021 | ![item-021.png](previews/item-021.png) |
-| 022 | ![item-022.png](previews/item-022.png) |
-| 023 | ![item-023.png](previews/item-023.png) |
-| 024 | ![item-024.png](previews/item-024.png) |
-| 025 | ![item-025.png](previews/item-025.png) |
-| 026 | ![item-026.png](previews/item-026.png) |
-| 027 | ![item-027.png](previews/item-027.png) |
-| 028 | ![item-028.png](previews/item-028.png) |
-| 029 | ![item-029.png](previews/item-029.png) |
-| 030 | ![item-030.png](previews/item-030.png) |
+| Category | Icon | Preview |
+| -------- | ---- | ------- |
+| Amperity Component | Profile API | <img src="previews/item-008.png" width="100"> |
+| Amperity Component | Profile API (with name) | <img src="previews/item-009.png" width="100"> |
+| Amperity Component | Durable IDs | <img src="previews/item-020.png" width="100"> |
+| Amperity Component | Real-time tables | <img src="previews/item-030.png" width="100"> |
+| Amperity Component | Profile store | <img src="previews/item-016.png" width="100"> |
+| Amperity Component | Attribute library | <img src="previews/item-018.png" width="100"> |
+| Concepts | Clipboard with checklist | <img src="previews/item-001.png" width="100">  |
+| Concepts | Clipboard | <img src="previews/item-014.png" width="100"> |
+| Concepts | Gears (processing) | <img src="previews/item-002.png" width="100"> |
+| Concepts | Small gear | <img src="previews/item-003.png" width="100"> |
+| Concepts | Big gear | <img src="previews/item-004.png" width="100"> |
+| Concepts | Treasure map | <img src="previews/item-005.png" width="100"> |
+| Concepts | Bug | <img src="previews/item-006.png" width="100"> |
+| Concepts | Island destination | <img src="previews/item-007.png" width="100"> |
+| Concepts | Cycle | <img src="previews/item-013.png" width="100"> |
+| Concepts | Person | <img src="previews/item-010.png" width="100"> |
+| Concepts | Barricade (blocked/blockers) | <img src="previews/item-011.png" width="100"> |
+| Concepts | Chatbot | <img src="previews/item-019.png" width="100"> |
+| Concepts | Magnifying glass | <img src="previews/item-021.png" width="100"> |
+| Concepts | Computer | <img src="previews/item-022.png" width="100"> |
+| Concepts | Downspiral (bottomless pit, time sink) | <img src="previews/item-023.png" width="100"> |
+| Concepts | Warning | <img src="previews/item-024.png" width="100"> |
+| Concepts | Lightbulb 1 | <img src="previews/item-025.png" width="100"> |
+| Concepts | Lightbulb 2 | <img src="previews/item-026.png" width="100"> |
+| Concepts | Clock | <img src="previews/item-027.png" width="100"> |
+| Concepts | Transform / redirect | <img src="previews/item-028.png" width="100"> |
+| Concepts | People (users, group) | <img src="previews/item-029.png" width="100"> |
+| Logo | Databricks | <img src="previews/item-012.png" width="100"> |
+| Logo | Kafka | <img src="previews/item-015.png" width="100"> |
+| Logo | Jira | <img src="previews/item-017.png" width="100"> |
