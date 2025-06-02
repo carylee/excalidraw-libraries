@@ -1,6 +1,6 @@
 # Cary's Excalidraw Library
 
-1. Download [the library file](carys-visual-vocabulary.excalidrawlib)
+1. Download [the library file](carys-visual-vocabulary.excalidrawlib?raw=1)
 2. Drag and drop it into an Excalidraw canvas (or use the file browser inside the library palette)
 
 
