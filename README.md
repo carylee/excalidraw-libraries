@@ -6,6 +6,7 @@
 
 ## 🖼️ Library Preview
 
+// Split this into multiple tables with a ### header for the Category and no category in the table. In each table, rearrange so the preview is the first column and the Icon (renamed to Description) will be second column AI!
 | Category | Icon | Preview |
 | -------- | ---- | ------- |
 | Amperity Component | Profile API | <img src="previews/item-008.png" width="100"> |
