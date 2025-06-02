@@ -166,7 +166,7 @@ async function generatePreviews() {
     console.log('✅ Excalidraw ready');
 
     // 6) Load your .excalidrawlib file and generate previews
-    const libraryPath = path.join(__dirname, 'carys-pictograms.excalidrawlib');
+    const libraryPath = path.join(__dirname, 'carys-visual-vocabulary.excalidrawlib');
     if (!fs.existsSync(libraryPath)) {
       console.error(`❌ Library file not found at ${libraryPath}`);
       return;

@@ -1,6 +1,6 @@
 # Cary's Excalidraw Library
 
-[Add to Excalidraw](https://excalidraw.com/?addLibrary=https%3A%2F%2Fraw.githubusercontent.com%2Fcarylee%2Fexcalidraw-libraries%2Frefs%2Fheads%2Fmain%2Fcarys-pictograms.excalidrawlib)
+[Add to Excalidraw](https://excalidraw.com/?addLibrary=https%3A%2F%2Fraw.githubusercontent.com%2Fcarylee%2Fexcalidraw-libraries%2Frefs%2Fheads%2Fmain%2Fcarys-visual-vocabulary.excalidrawlib)
 
 ## 🖼️ Library Preview
 
